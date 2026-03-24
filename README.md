@@ -5,7 +5,7 @@
 
 📊 Passionate about designing and building scalable data solutions, from data ingestion to visualization, using modern data platforms.
 
-🛠️ Strong experience with Microsoft Fabric, including Data Pipelines, Dataflows, and Lakehouse architecture to deliver end-to-end data engineering solutions.
+🛠️ Strong experience with Microsoft Fabric, including Data Pipelines, Dataflows, and Lakehouse architecture to deliver end-to-end data  engineering solutions.
 
 📈 Advanced Power BI developer, creating interactive dashboards and data models that drive business insights.
 
