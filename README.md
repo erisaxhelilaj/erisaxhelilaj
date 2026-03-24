@@ -1,5 +1,5 @@
 ### Hi there![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)  
-## I am Erisa - Data & BI Engineer | Power BI Developer | Microsoft Fabric | SQL | Data Modeling | ETL / ELT | System Administration
+## I am Erisa - Data & BI Engineer | Power BI Developer | System Administration
 
 🚀 Full Stack Data Engineer with hands-on experience in Microsoft Fabric (End-to-End Data Engineering Projects)
 
